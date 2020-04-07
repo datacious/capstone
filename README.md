@@ -6,6 +6,9 @@ Then we use supervised learning to find out which type of customers would respon
 A detailed description of the project can be found at the following blog post:
 https://datasciencehere.blogspot.com/2020/04/capstone.html
 
+### Data
+The dataset was provided by Arvato through Udacity.
+
 ### Instructions
 
 Install the following pythong packages with conda install or pip install:
